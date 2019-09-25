@@ -1,5 +1,5 @@
 # Classwork on using the Django ORM capability from the console
-
+#### You manage to make both models and link them with a foreign key. Your project does not run and your database is gone.  3/5 Score: 2/2
 ## Exercise 1:
 * Create new model for ```Author```
 - Author should have properties for ```first_name``` and ```last_name```
